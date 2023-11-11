@@ -1,4 +1,4 @@
-const apiKey = '';
+const apiKey = '.gitignore';
 const apiUrl = 'https://api.openai.com/v1/engines/davinci/completions';
 
 function sendMessage() {
