@@ -1,4 +1,4 @@
-const apiKey = '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';
+const apiKey = '';
 const apiUrl = 'https://api.openai.com/v1/engines/davinci/completions';
 
 function sendMessage() {
